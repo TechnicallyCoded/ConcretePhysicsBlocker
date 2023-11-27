@@ -1,0 +1,4 @@
+name: ConcretePhysicsBlocker
+version: '${version}'
+main: com.tcoded.concretephysicsblocker.ConcretePhysicsBlocker
+api-version: '1.13'
