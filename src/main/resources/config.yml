@@ -1,2 +1,10 @@
 prevent-water-transform: true
-prevent-gravity: true
+
+block-sand: true
+block-gravel: true
+block-concrete: true
+block-other-gravity: true
+
+worlds:
+  whitelist: []
+  blacklist: []
